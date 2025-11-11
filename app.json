@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Lab2",
-    "slug": "Lab2",
+    "name": "Lab-3",
+    "slug": "Lab-3",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "lab2",
+    "scheme": "lab-3",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
